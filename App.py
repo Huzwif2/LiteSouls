@@ -1,1 +1,1 @@
-print("this is app.py")
+import random
