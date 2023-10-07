@@ -2,7 +2,6 @@ import guts
 import witch
 import random
 
-
 def rollDice():
      diceNum = random.randint(2,12)
      print("You roll two dice and get:", diceNum)
