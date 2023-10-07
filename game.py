@@ -7,7 +7,6 @@ def rollDice():
      print("You roll two dice and get:", diceNum)
 
 def welcome():
-    rollDice()
     if input("Would you like to play? (y/n): ") == "y":
         introduction()
     else:
@@ -26,7 +25,6 @@ def chooseClass():
             chooseClass()
 
 def introduction():
-    rollDice()
     print("Fighting is about choice.\nTo fight is to make a choice. That was what I was told when the neighbouring kingdom finally invaded out homeland. I was told the slaughtering of our people was done for no other reason than to send a message to any neighbouring kings. I watched all of my friends, family and community slaughtered by soldiers while i hid. What a stupid choice. When the dust had settled I came out of my hiding spot. Rumor was the soliders were going to return as our ruler had already been kidnpped, presumed dead.")
     chooseClass()
     
