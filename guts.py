@@ -1,5 +1,5 @@
-i = int(-1)
-s = int(0)
+i = int(-2)
+s = int(1)
 w = int(2)
 
 gutsIq = i

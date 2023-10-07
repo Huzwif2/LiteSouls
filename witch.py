@@ -7,4 +7,4 @@ witchFp = f
 witchWp = w
 
 def printstats():
-    print("Your stats are:\nIQ",witchIq,"FAITH",witchFp,"WILLPOWER",witchWp)
+    print("Your stats are now:\nIQ",witchIq,"FAITH",witchFp,"WILLPOWER",witchWp)
