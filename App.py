@@ -1,2 +1,5 @@
-# Welcome user to game
-print("Welcome to LiteSouls\nThe text based RPG written in python")
+import game
+
+print("Welcome to LiteSouls, the text based RPG written in python")
+
+game.welcome()

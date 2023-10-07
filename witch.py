@@ -1,3 +1,10 @@
-witchIq = int(2)
-witchFp = int(0)
-witchWp = int(-1)
+i = int(2)
+f = int(0)
+w = int(-1)
+
+witchIq = i
+witchFp = f
+witchWp = w
+
+def printstats():
+    print("Your stats are:\nIQ",witchIq,"FAITH",witchFp,"WILLPOWER",witchWp)
