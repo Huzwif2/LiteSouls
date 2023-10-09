@@ -17,7 +17,7 @@ def restart():
     quit()
 
 def chooseClass():
-        userClass = input("I knew I needed to have sometthing to defend myself with if they were to return.\nI find an abandoned house, hoping I can find something to defend myself with. Inside there is a sword on display up on the wall but in the dusty corner I notice a staff with a strange glow around it.\n(Type sword or staff to make your choice)\n")
+        userClass = input("I knew I needed to find something to defend myself with if they were to return.\nI find an abandoned house, hoping to find a weapon of sorts. Inside there is a sword on display up on the wall but in the dusty corner I notice a staff with a strange glow around it.\n(Type sword or staff to make your choice)\n")
         if userClass == "sword":
                 print("You have chosen Berserker class!")
                 berserk()
