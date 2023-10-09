@@ -8,3 +8,6 @@ gutsWp = w
 
 def printstats():
     print("Your stats are:\nIQ",gutsIq,"STRENGTH",gutsSp,"WILLPOWER",gutsWp)
+
+def finalstats():
+    print("Your final stats are:\nIQ",gutsIq,"STRENGTH",gutsSp,"WILLPOWER",gutsWp)
