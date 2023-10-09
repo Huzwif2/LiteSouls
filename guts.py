@@ -1,4 +1,4 @@
-i = int(-2)
+i = int(-1)
 s = int(1)
 w = int(2)
 
